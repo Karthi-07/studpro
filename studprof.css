@@ -1,0 +1,42 @@
+.profile{
+    display: flex;
+    width: 60vw;
+    height: 90vh;
+    margin-left: 45vh;
+    margin-top: 5vh;
+    }
+   
+    .left,.doctor{
+        width: 30vw;
+        height: 89.6vh;
+        border: 1px solid black;
+  }
+    .right{
+        width:30vw;
+        height: 90vh;
+        color: white;
+        background-color: rgb(59, 56, 56);
+    }
+    .spec{
+        width: 8vw;
+        height: 4vh;
+        background-color:aqua;
+        border-radius: 7px;
+    }
+    .spec:hover{
+        background-color: blue;
+    }
+    .name{
+        margin-left: 10vh;
+        margin-top: -2vh;
+    }
+    .head{
+        margin-left: 5vh;
+        margin-top:4.3vh;
+        color: aquamarine;
+    }
+    .content{
+        margin-left: 10vh;
+        margin-top: -1.5vh;
+        font-size: medium;
+    }
